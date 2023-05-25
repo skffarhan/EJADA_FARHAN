@@ -1,0 +1,10 @@
+com\generics\Pojo.class
+com\pageFactory\common\SAUCE\LoginPage.class
+com\generics\CustomReporter.class
+com\generics\WrapperFunctions.class
+com\generics\WrapperFunctions$1.class
+com\pageFactory\common\SAUCE\DashbordPage.class
+com\pageFactory\Sauce\Mobile\LoginPage_Mobile.class
+com\generics\BaseTest.class
+com\generics\Utilities.class
+com\pageFactory\API\jsonPage.class

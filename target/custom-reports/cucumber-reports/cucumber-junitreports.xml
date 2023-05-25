@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="15.582" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Books Api TestCase" name="TC_001_Get_API" time="7.434">
+<system-out><![CDATA[
+Given I am requesting "BaseURI".............................................passed
+Given Load Testdata form Specific Api sheet "BOOKS-API".....................passed
+Then I go to "/books" and "GET" Api Request Saved in Json File "GetbookDetailsOutput.json" without charset.passed
+Then Save Final Response in "GetbookDetailsOutput.json" output File.........passed
+Then I am validating object "name[0]" for string value "The Russian" For "BOOKS-API"..passed
+Then I am validating object "type[0]" for string value "fiction" For "BOOKS-API"..passed
+Then I am validating object "name[1]" for string value "Just as I Am" For "BOOKS-API"..passed
+Then I am validating object "type[1]" for string value "non-fiction" For "BOOKS-API"..passed
+Then I am validating object "name[2]" for string value "The Vanishing Half" For "BOOKS-API"..passed
+Then I am validating object "type[2]" for string value "fiction" For "BOOKS-API"..passed
+Then I am validating object "name[3]" for string value "The Midnight Library" For "BOOKS-API"..passed
+Then I am validating object "type[3]" for string value "fiction" For "BOOKS-API"..passed
+Then I am validating object "name[4]" for string value "Untamed" For "BOOKS-API"..passed
+Then I am validating object "type[4]" for string value "non-fiction" For "BOOKS-API"..passed
+]]></system-out>
+</testcase>
+<testcase classname="Books Api TestCase" name="TC_002_POST_API_With Token" time="7.934">
+<system-out><![CDATA[
+Given I am requesting "BaseURI".............................................passed
+Given Load Testdata form Specific Api sheet "BOOKS-API".....................passed
+Then Create Input File for json from Excel Sheet............................passed
+Then I go to "/api-clients/" and "POST" Api Request Saved in Json File "PostTestData.json" without charset.passed
+Then Save Final Response in "PostClientTokenResponse.json" output File......passed
+Then Get the Token Number From "accessToken" Response.......................passed
+Then I go to "/orders" and "POST" Api Request Saved in Json File "CreateOrderidTestData.json" with Barear Token.passed
+Then Get the Order Number From "orderId" Response...........................passed
+Then Save Final Response in "PostOrderIDResponse.json" output File..........passed
+Then I go to "/orders/:" and "PATCH" Api Request Saved in Json File "PatchjasonTestData.json" with Barear Token.passed
+Then Save Final Response in "PatchOrderResponse.json" output File...........passed
+Then I am validating object "error" for string value "No order with id :." For "Order"..passed
+Then I go to "/orders/:" and "DELETE" Api Request Saved in Json File "DeleteTestdataRequest.json" with Barear Token.passed
+Then Save Final Response in "DeleteTestdataResponse.json" output File.......passed
+]]></system-out>
+</testcase>
+</testsuite>

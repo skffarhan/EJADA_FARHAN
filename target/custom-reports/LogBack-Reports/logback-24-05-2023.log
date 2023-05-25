@@ -1,0 +1,149 @@
+Step Description--> TC_002_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_001_SauceDemo-->Open URL - 'https://www.saucedemo.com'.
+Step Description--> TC_001_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_002_SauceDemo-->Enter Username in Sauce Login Page || Input Value : standard_user
+Step Description--> TC_001_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_002_SauceDemo-->Enter Password in Sauce Login Page || Input Value : secret_sauce
+Step Description--> TC_001_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_002_SauceDemo-->Click Login Button to get logged in. 
+Step Description--> TC_001_SauceDemo-->Click ok on Pop after Login. 
+Step Description--> TC_002_SauceDemo-->Click ok on Pop after Login. 
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Farhan.Shaikh\AppData\Local\Temp\testng-eclipse--788077014\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@80bfa9d: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7132a9dc: 101 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@376c7d7d: 138 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@6732726: 11 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@79c5460e: 9 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@51d719bc: 9 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7847ef2c: 6 ms
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Farhan.Shaikh\AppData\Local\Temp\testng-eclipse--1757598269\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Russian || Actual Result : The Russian
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : Just as I Am || Actual Result : Just as I Am
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : non-fiction || Actual Result : non-fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Vanishing Half || Actual Result : The Vanishing Half
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Midnight Library || Actual Result : The Midnight Library
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : Untamed || Actual Result : Untamed
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : non-fiction || Actual Result : non-fiction
+Step Description--> TC_002_POST_API_With Token-->Verify the response value in OrderApi || Expected Result : No order with id :. || Actual Result : No order with id :.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  D:\Users\Farhan.Shaikh\AppData\Local\Temp\testng-eclipse-1228838541\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Russian || Actual Result : The Russian
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : Just as I Am || Actual Result : Just as I Am
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : non-fiction || Actual Result : non-fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Vanishing Half || Actual Result : The Vanishing Half
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : The Midnight Library || Actual Result : The Midnight Library
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : fiction || Actual Result : fiction
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : Untamed || Actual Result : Untamed
+Step Description--> TC_001_Get_API-->Verify the response value in BOOKS-APIApi || Expected Result : non-fiction || Actual Result : non-fiction
+Step Description--> TC_002_POST_API_With Token-->Verify the response value in OrderApi || Expected Result : No order with id :. || Actual Result : No order with id :.
+Step Description--> TC_002_POST_API_With Token-->Verify the response value in OrderApi || Expected Result : No order with id :. || Actual Result : No order with id :.
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@5e405eaf: 0 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@51d6c42d: 52 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@65dafe50: 94 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@29b2a94c: 0 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@3a7f382: 8 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@5ce03a9d: 6 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2ac0cb64: 4 ms
